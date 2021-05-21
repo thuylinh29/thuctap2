@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ThucTap2\bin\Debug\ThucTap2.exe
+C:\Users\Admin\source\repos\ThucTap2\bin\Debug\ThucTap2.pdb
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.frmDangNhap.resources
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.Properties.Resources.resources
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.exe
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.pdb
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.frmSanPham.resources
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.frmPhieuNhapKho.resources
+C:\Users\Admin\source\repos\ThucTap2\obj\Debug\ThucTap2.csproj.ResolveComReference.cache
